@@ -1,5 +1,7 @@
 **DIY Robot Assistant Build Journal**
 by Devansh Singh Parmar
+
+Total Time Spent as of last update:- **18** hours.
 ---
 
 **Date: 30th July 2025**
