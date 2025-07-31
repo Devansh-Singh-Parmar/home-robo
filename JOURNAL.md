@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 **DIY Robot Assistant Build Journal**
 by Devansh Singh Parmar
 
@@ -53,4 +51,3 @@ Total Time Spent as of last update:- **18** hours.
 
 
 ---
->>>>>>> 2e86f08f39eb51aca0da3ffb7abaf703ad641cde
